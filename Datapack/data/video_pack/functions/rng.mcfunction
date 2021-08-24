@@ -1,0 +1,33 @@
+scoreboard players set Random random 0
+
+execute if predicate video_pack:random_chance run scoreboard players add Random random 1
+execute if predicate video_pack:random_chance run scoreboard players add Random random 2
+execute if predicate video_pack:random_chance run scoreboard players add Random random 4
+execute if predicate video_pack:random_chance run scoreboard players add Random random 8
+execute if predicate video_pack:random_chance run scoreboard players add Random random 16
+execute if predicate video_pack:random_chance run scoreboard players add Random random 32
+execute if predicate video_pack:random_chance run scoreboard players add Random random 64
+execute if predicate video_pack:random_chance run scoreboard players add Random random 128
+execute if predicate video_pack:random_chance run scoreboard players add Random random 256
+execute if predicate video_pack:random_chance run scoreboard players add Random random 512
+execute if predicate video_pack:random_chance run scoreboard players add Random random 1024
+execute if predicate video_pack:random_chance run scoreboard players add Random random 2048
+execute if predicate video_pack:random_chance run scoreboard players add Random random 4096
+execute if predicate video_pack:random_chance run scoreboard players add Random random 8192
+execute if predicate video_pack:random_chance run scoreboard players add Random random 16384
+execute if predicate video_pack:random_chance run scoreboard players add Random random 32768
+execute if predicate video_pack:random_chance run scoreboard players add Random random 65536
+execute if predicate video_pack:random_chance run scoreboard players add Random random 131072
+execute if predicate video_pack:random_chance run scoreboard players add Random random 262144
+execute if predicate video_pack:random_chance run scoreboard players add Random random 524288
+execute if predicate video_pack:random_chance run scoreboard players add Random random 1048576
+execute if predicate video_pack:random_chance run scoreboard players add Random random 2097152
+execute if predicate video_pack:random_chance run scoreboard players add Random random 4194304
+execute if predicate video_pack:random_chance run scoreboard players add Random random 8388608
+execute if predicate video_pack:random_chance run scoreboard players add Random random 16777216
+execute if predicate video_pack:random_chance run scoreboard players add Random random 33554432
+execute if predicate video_pack:random_chance run scoreboard players add Random random 67108864
+execute if predicate video_pack:random_chance run scoreboard players add Random random 134217728
+execute if predicate video_pack:random_chance run scoreboard players add Random random 268435456
+execute if predicate video_pack:random_chance run scoreboard players add Random random 536870912
+execute if predicate video_pack:random_chance run scoreboard players add Random random 1073741824
